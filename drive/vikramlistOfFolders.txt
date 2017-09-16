@@ -1,0 +1,11 @@
+/root/
+qwerty/
+test/
+###
+/root/qwerty/
+###
+/root/test/
+abc/
+###
+/root/test/abc/
+###
